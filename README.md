@@ -1,2 +1,3 @@
 # IIt-m-Hackathhon-
-detecting Moving object 
+detecting Moving object in video provided by IIT M
+
